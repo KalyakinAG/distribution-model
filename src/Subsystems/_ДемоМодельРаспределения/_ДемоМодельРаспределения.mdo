@@ -7,5 +7,4 @@
   </synonym>
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
-  <content>DataProcessor._ДемоРаспределение</content>
 </mdclass:Subsystem>

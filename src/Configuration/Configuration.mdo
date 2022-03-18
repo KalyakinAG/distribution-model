@@ -37,5 +37,4 @@
   <dataProcessors>DataProcessor.КонструкторМоделиЗапроса</dataProcessors>
   <dataProcessors>DataProcessor.МодельЗапроса</dataProcessors>
   <dataProcessors>DataProcessor.МодельРаспределения</dataProcessors>
-  <dataProcessors>DataProcessor._ДемоРаспределение</dataProcessors>
 </mdclass:Configuration>
