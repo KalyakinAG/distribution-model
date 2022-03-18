@@ -1,1 +1,1 @@
-.\tools\cfe2cf.exe f .\bin\WorkWithFillingData.cfe РаботаСДаннымиЗаполнения .\bin\WorkWithFillingData.cf
+.\tools\cfe2cf.exe f .\bin\DistributionModel.cfe DistributionModel .\bin\DistributionModel.cf
