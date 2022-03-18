@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="cf7d9576-a67d-4b9b-8466-6b0dc59f15cf">
+  <name>МодельРаспределения</name>
+  <synonym>
+    <key>ru</key>
+    <value>Модель распределения</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <content>DataProcessor.МодельРаспределения</content>
+</mdclass:Subsystem>

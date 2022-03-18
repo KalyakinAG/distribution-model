@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="62756ad2-4c8f-45ba-b724-8efd65171544">
+  <name>_ДемоМодельРаспределения</name>
+  <synonym>
+    <key>ru</key>
+    <value>Демо модель распределения</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <content>DataProcessor._ДемоРаспределение</content>
+</mdclass:Subsystem>
