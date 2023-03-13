@@ -9,8 +9,6 @@
   <extension xsi:type="mdclassExtension:ConfigurationExtension">
     <defaultRunMode>Checked</defaultRunMode>
     <usePurposes>Checked</usePurposes>
-    <commandInterface>Extended</commandInterface>
-    <mainSectionCommandInterface>Extended</mainSectionCommandInterface>
     <defaultStyle>Extended</defaultStyle>
   </extension>
   <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="0df52d58-5237-4396-92e4-2cbae791be18"/>
