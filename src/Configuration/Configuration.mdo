@@ -19,12 +19,13 @@
   <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="96295633-1ee6-4740-a288-fab4ed1a34a9"/>
   <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="b17c70b6-cb6b-4db2-879a-0dbe4fd8fb2b"/>
   <namePrefix>_</namePrefix>
-  <configurationExtensionCompatibilityMode>8.3.14</configurationExtensionCompatibilityMode>
+  <configurationExtensionCompatibilityMode>8.3.22</configurationExtensionCompatibilityMode>
   <configurationExtensionPurpose>Customization</configurationExtensionPurpose>
   <defaultRunMode>ManagedApplication</defaultRunMode>
   <usePurposes>PersonalComputer</usePurposes>
   <scriptVariant>Russian</scriptVariant>
   <version>1.0.0.2</version>
+  <compatibilityMode>8.3.22</compatibilityMode>
   <subsystems>Subsystem._ДемоМодельСостояния</subsystems>
   <subsystems>Subsystem.МодельЗапроса</subsystems>
   <subsystems>Subsystem.МодельРаспределения</subsystems>
