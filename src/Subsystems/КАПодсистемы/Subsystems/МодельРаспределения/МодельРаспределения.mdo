@@ -7,4 +7,5 @@
   </synonym>
   <includeHelpInContents>true</includeHelpInContents>
   <content>DataProcessor.МодельРаспределения</content>
+  <parentSubsystem>Subsystem.КАПодсистемы</parentSubsystem>
 </mdclass:Subsystem>
