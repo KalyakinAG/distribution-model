@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdclass:Configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="c5a27b92-217f-4781-a260-fd00766f057c">
-  <name>DistributionModel</name>
+  <name>МодельРаспределения</name>
   <synonym>
     <key>ru</key>
-    <value>Distribution model</value>
+    <value>Модель распределения</value>
   </synonym>
   <objectBelonging>Adopted</objectBelonging>
   <extension xsi:type="mdclassExtension:ConfigurationExtension">
@@ -16,12 +16,12 @@
   <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="5f9af5f5-df65-416d-b8a4-d6418f3c0e35"/>
   <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="96295633-1ee6-4740-a288-fab4ed1a34a9"/>
   <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="b17c70b6-cb6b-4db2-879a-0dbe4fd8fb2b"/>
-  <namePrefix>ка_</namePrefix>
-  <configurationExtensionCompatibilityMode>8.3.22</configurationExtensionCompatibilityMode>
+  <namePrefix>КА_</namePrefix>
+  <configurationExtensionCompatibilityMode>8.3.23</configurationExtensionCompatibilityMode>
   <configurationExtensionPurpose>AddOn</configurationExtensionPurpose>
   <defaultRunMode>ManagedApplication</defaultRunMode>
   <scriptVariant>Russian</scriptVariant>
-  <version>2.0.1</version>
+  <version>2.0.2</version>
   <subsystems>Subsystem.КАПодсистемы</subsystems>
   <dataProcessors>DataProcessor.МодельРаспределения</dataProcessors>
 </mdclass:Configuration>
