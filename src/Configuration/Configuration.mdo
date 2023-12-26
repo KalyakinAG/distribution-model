@@ -22,6 +22,6 @@
   <defaultRunMode>ManagedApplication</defaultRunMode>
   <scriptVariant>Russian</scriptVariant>
   <version>2.0.2</version>
-  <subsystems>Subsystem.КАПодсистемы</subsystems>
+  <subsystems>Subsystem.KASL</subsystems>
   <dataProcessors>DataProcessor.МодельРаспределения</dataProcessors>
 </mdclass:Configuration>
