@@ -21,7 +21,7 @@
   <configurationExtensionPurpose>AddOn</configurationExtensionPurpose>
   <defaultRunMode>ManagedApplication</defaultRunMode>
   <scriptVariant>Russian</scriptVariant>
-  <version>2.0.2</version>
+  <version>1.0.2.1</version>
   <subsystems>Subsystem.KASL</subsystems>
   <dataProcessors>DataProcessor.МодельРаспределения</dataProcessors>
 </mdclass:Configuration>
