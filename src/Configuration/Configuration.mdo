@@ -21,7 +21,15 @@
   <configurationExtensionPurpose>AddOn</configurationExtensionPurpose>
   <defaultRunMode>ManagedApplication</defaultRunMode>
   <scriptVariant>Russian</scriptVariant>
-  <version>1.0.2.1</version>
+  <version>1.0.2.2</version>
+  <vendorInformationAddress>
+    <key>ru</key>
+    <value>https://infostart.ru/profile/16301/</value>
+  </vendorInformationAddress>
+  <configurationInformationAddress>
+    <key>ru</key>
+    <value>https://infostart.ru/1c/articles/1942685/</value>
+  </configurationInformationAddress>
   <subsystems>Subsystem.KASL</subsystems>
   <dataProcessors>DataProcessor.МодельРаспределения</dataProcessors>
 </mdclass:Configuration>
