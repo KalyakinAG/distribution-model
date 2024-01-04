@@ -6,8 +6,6 @@
     <value>Модель распределения</value>
   </synonym>
   <includeHelpInContents>true</includeHelpInContents>
-  <includeInCommandInterface>true</includeInCommandInterface>
   <content>DataProcessor.МодельРаспределения</content>
-  <subsystems>КонструкторМоделиРаспределения</subsystems>
   <parentSubsystem>Subsystem.KASL.Subsystem.Модели</parentSubsystem>
 </mdclass:Subsystem>
