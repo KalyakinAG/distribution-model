@@ -17,7 +17,7 @@
   <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="96295633-1ee6-4740-a288-fab4ed1a34a9"/>
   <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="b17c70b6-cb6b-4db2-879a-0dbe4fd8fb2b"/>
   <namePrefix>KASL</namePrefix>
-  <configurationExtensionCompatibilityMode>8.3.23</configurationExtensionCompatibilityMode>
+  <configurationExtensionCompatibilityMode>8.3.27</configurationExtensionCompatibilityMode>
   <configurationExtensionPurpose>AddOn</configurationExtensionPurpose>
   <defaultRunMode>ManagedApplication</defaultRunMode>
   <scriptVariant>Russian</scriptVariant>
